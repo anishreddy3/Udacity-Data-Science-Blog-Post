@@ -41,5 +41,5 @@ The main findings of this project can be found at the post available
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Analytics Vidhya & Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/sudalairajkumar/indian-startup-funding/data . Otherwise, feel free to use the code here as you would like! 
+Must give credit to trak.in & Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/sudalairajkumar/indian-startup-funding/data). Otherwise, feel free to use the code here as you would like! 
 
