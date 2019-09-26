@@ -20,7 +20,7 @@ For this project I was interested in using Indian Startup Funding Dataset from K
 
 Question 1 : Do Cities have a huge influence on funding, list the top 20 cities with most number of startups
 
-Question 2 : Which Industries are more preferred by investors, list the top 15 industries with more startups
+Question 2 : Which Industries are more preferred by investors, list the top 10 industries with more startups
 
 Question 3 : Who are the most prominent investors in Indian Startup Environment, list the top 15 proiminent investors in India
 
