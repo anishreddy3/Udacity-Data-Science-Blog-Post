@@ -22,7 +22,7 @@ Question 1 : Do Cities have a huge influence on funding, list the top 20 cities 
 
 Question 2 : Which Industries are more preferred by investors, list the top 10 industries with more startups
 
-Question 3 : Who are the most prominent investors in Indian Startup Environment, list the top 15 proiminent investors in India
+Question 3 : Who are the most prominent investors in Indian Startup Environment, list the top 15 investors
 
 Question 4 : Which Industries got the most fudning, list the top 15 industries that got the most funding
 
@@ -37,7 +37,7 @@ startup_funding.csv - This file contains 3,009 observations about the startups t
 
 ## Results<a name="results"></a>
 
-The main findings of this project can be found at the post available
+The main findings of this project can be found at the post available [here](https://medium.com/@areddy3/indian-startup-funding-dataset-some-exploratory-questions-9ff9b0047323)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
